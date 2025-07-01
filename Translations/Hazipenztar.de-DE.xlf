@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Hazipenztar.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 774012119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Petty Cash Document Header</source>
+          <target>Kassendokument Kopf</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Petty Cash Document Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 774012119 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Petty Cash Document Header - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 774012119 - Field 3529549019 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Partner Name</source>
+          <target>Partnername</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Petty Cash Document Header - Field Partner Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 774012119 - Field 3106633803 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Partner No.</source>
+          <target>Partnernr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Petty Cash Document Header - Field Partner No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 774012119 - Field 1522950594 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Partner Type</source>
+          <target>Partnertyp</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Petty Cash Document Header - Field Partner Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 774012119 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Buchungsdatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Petty Cash Document Header - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 774012119 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target>Typ</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Petty Cash Document Header - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2169070480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Petty Cash Document Line</source>
+          <target>Kassendokument Zeile</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Petty Cash Document Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2169070480 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Betrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Petty Cash Document Line - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2169070480 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Beschreibung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Petty Cash Document Line - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2169070480 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target>Zeilennr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Petty Cash Document Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2169070480 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Petty Cash Document Line - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2169070480 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target>Typ</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Petty Cash Document Line - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1024387758 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Petty Cash Setup</source>
+          <target>Kasseneinrichtung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Petty Cash Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1024387758 - Field 1278266710 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Incoming No. Series</source>
+          <target>Eingangsnummernserie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Petty Cash Setup - Field Incoming No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1024387758 - Field 2090502574 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Outgoing No. Series</source>
+          <target>Ausgangsnummernserie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Petty Cash Setup - Field Outgoing No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1024387758 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target>Primärschlüssel</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Petty Cash Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3361771126 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Petty Cash Document</source>
+          <target>Kassendokument</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Petty Cash Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3361771126 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target>Allgemein</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Petty Cash Document - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3361771126 - Control 1630227952 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Petty Cash Document Line</source>
+          <target>Kassendokument Zeile</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Petty Cash Document - Control PettyCashDocumentLine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2169070480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Petty Cash Document Line</source>
+          <target>Kassendokument Zeile</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Petty Cash Document Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3155185972 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Petty Cash Document List</source>
+          <target>Kassendokument Liste</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Petty Cash Document List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1024387758 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Petty Cash Setup</source>
+          <target>Kasseneinrichtung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Petty Cash Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1024387758 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target>Allgemein</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Petty Cash Setup - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2840326447 - EnumValue 1994964448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer</source>
+          <target>Kunde</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Partner Types - EnumValue Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2840326447 - EnumValue 1936001480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor</source>
+          <target>Kreditor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Partner Types - EnumValue Vendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2388510493 - EnumValue 2199882250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Incoming</source>
+          <target>Eingang</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Types - EnumValue Incoming - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2388510493 - EnumValue 3993926658 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Outgoing</source>
+          <target>Ausgang</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Types - EnumValue Outgoing - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
