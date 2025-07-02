@@ -47,8 +47,44 @@ page 50102 "Petty Cash Document"
         }
     }
 
+    actions
+    {
+        area(Processing)
+        {
+            action(Post)
+            {
+                Caption = 'Post';
+                ApplicationArea = All;
+                Promoted = true;
+                PromotedCategory = Process;
+                PromotedIsBig = true;
+                Image = Post;
+
+                trigger OnAction()
+                var
+                    PettyCashDocPosted: Record "Petty Cash Doc Header Posted";
+                begin
+                    if Confirm(StrSubstNo(Text001, Rec."No.")) then begin
+                        PettyCashDocPosted.Init();
+                        PettyCashDocPosted.Type := Rec.Type;
+                        PettyCashDocPosted."No." := Rec."No.";
+                        PettyCashDocPosted."Partner Type" := Rec."Partner Type";
+                        PettyCashDocPosted."Partner No." := Rec."Partner No.";
+                        PettyCashDocPosted."Partner Name" := Rec."Partner Name";
+                        PettyCashDocPosted."Posting Date" := Rec."Posting Date";
+                        PettyCashDocPosted.Insert();
+                        Rec.Delete();
+                    end;
+                end;
+            }
+        }
+    }
+
     trigger OnNewRecord(BelowxRec: Boolean)
     begin
         Rec."Posting Date" := Today();
     end;
+
+    var
+        Text001: Label 'Are you sure to post the %1 document?';
 }
