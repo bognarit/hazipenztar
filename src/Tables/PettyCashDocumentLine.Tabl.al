@@ -1,4 +1,4 @@
-table 50102 "Petty Cash Document Line"
+table 50102     "Petty Cash Document Line"
 {
     Caption = 'Petty Cash Document Line';
     DataClassification = CustomerContent;

@@ -223,6 +223,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Petty Cash Document Posted - Control PettyCashDocumentLine - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 4146198221 - Action 2180089400 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Receipt - RDLC</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Petty Cash Document Posted - Action CashReceiptRDLC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4146198221 - Action 3190452765 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Receipt - Word</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Petty Cash Document Posted - Action CashReceiptWord - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 1024387758 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Petty Cash Setup</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -232,6 +242,36 @@
           <source>General</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Petty Cash Setup - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1880479139 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Receipt - RDLC</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Cash Receipt - RDLC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1880479139 - ReportLayout 2624030593 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RDLC Layout of Cash Receipt.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Cash Receipt - RDLC - ReportLayout CashReceiptLayout - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="Report 1880479139 - ReportLayout 2624030593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CashReceiptLayout</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Cash Receipt - RDLC - ReportLayout CashReceiptLayout - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3985502802 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash Receipt - Word</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Cash Receipt - Word - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3985502802 - ReportLayout 2624030593 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Word Layout of Cash Receipt.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Cash Receipt - Word - ReportLayout CashReceiptLayout - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="Report 3985502802 - ReportLayout 2624030593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CashReceiptLayout</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Cash Receipt - Word - ReportLayout CashReceiptLayout - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 2840326447 - EnumValue 1994964448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Customer</source>
