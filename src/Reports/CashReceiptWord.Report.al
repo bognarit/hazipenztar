@@ -1,4 +1,4 @@
-report 50101 "Cash Receipt - Word"
+report 50201 "Cash Receipt - Word"
 {
     Caption = 'Cash Receipt - Word';
     UsageCategory = ReportsAndAnalysis;
@@ -10,7 +10,7 @@ report 50101 "Cash Receipt - Word"
         dataitem(PettyCashDocHeaderPosted; "Petty Cash Doc Header Posted")
         {
             PrintOnlyIfDetail = true;
-            
+
             column(Type; "Type")
             {
             }
@@ -24,6 +24,9 @@ report 50101 "Cash Receipt - Word"
             {
             }
             column(PartnerName; "Partner Name")
+            {
+            }
+            column(PostingDate; "Posting Date")
             {
             }
             dataitem(PettyCashDocumentLine; "Petty Cash Document Line")
@@ -45,7 +48,7 @@ report 50101 "Cash Receipt - Word"
                 }
             }
 
-            trigger OnPreDataItem()
+            trigger OnAfterGetRecord()
             var
                 PettyCashDocLine: Record "Petty Cash Document Line";
             begin

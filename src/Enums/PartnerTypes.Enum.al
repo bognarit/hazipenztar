@@ -1,4 +1,4 @@
-enum 50101 "Partner Types"
+enum 50201 "Partner Types"
 {
     Extensible = true;
 

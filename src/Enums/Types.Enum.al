@@ -1,4 +1,4 @@
-enum 50100 Types
+enum 50200 Types
 {
     Extensible = true;
 

@@ -1,4 +1,4 @@
-page 50100 "Petty Cash Setup"
+page 50200 "Petty Cash Setup"
 {
     PageType = Card;
     ApplicationArea = All;

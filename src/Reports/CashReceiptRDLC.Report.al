@@ -1,4 +1,4 @@
-report 50100 "Cash Receipt - RDLC"
+report 50200 "Cash Receipt - RDLC"
 {
     Caption = 'Cash Receipt - RDLC';
     UsageCategory = ReportsAndAnalysis;

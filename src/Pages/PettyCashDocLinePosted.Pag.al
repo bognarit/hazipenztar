@@ -1,4 +1,4 @@
-page 50106 "Petty Cash Doc Line Posted"
+page 50206 "Petty Cash Doc Line Posted"
 {
     ApplicationArea = All;
     Caption = 'Petty Cash Document Line - Posted';
